@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","title":"🌠千界一乘","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Home/","title":"千界一乘","tags":["gardenEntry"]}
 ---
 
 
