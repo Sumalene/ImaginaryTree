@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/WSL使用/","title":"适用于 Linux 的 Windows 子系统"}
 ---
 
+## WSL的使用
+
 • 打开powershell，输入  wsl --install 
 > 等待安装;重启电脑
 
