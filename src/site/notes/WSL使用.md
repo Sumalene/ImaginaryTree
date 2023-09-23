@@ -4,7 +4,11 @@
 
 ## WSL的使用
 
-• 打开powershell，输入  wsl --install 
+```
+wsl --install 
+```
+打开powershell，输入  wsl --install 
+
 > 等待安装;重启电脑
 
 > 输入用户名以及密码(密码不在命令行中显示,请注意)
