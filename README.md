@@ -8,4 +8,12 @@
 
 ---
 ## Docs
-不写了
+*Unfold this pair of wings for me again*
+
+*To soar above this world*
+
+*Turn into a shooting star that briefly shines but warms up every heart*
+
+*Turned into a moon that always tells the warmth and brightness of the sun*
+
+*May all the beauty be blessed*
